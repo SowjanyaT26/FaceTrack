@@ -19,22 +19,15 @@ By combining face recognition with a web-based platform, the system ensures that
 # UML Diagrams : 
   1. User Activity
      <img width="780" height="431" alt="image" src="https://github.com/user-attachments/assets/c2ffe8c5-8933-4937-8e0e-3d112ddada32" />
-     
-  2. Sequence diagram
-     
-     <img width="575" height="398" alt="image" src="https://github.com/user-attachments/assets/6c61c37b-949e-4119-81d1-b8a43ef5387e" />
 
 # Designed Screens UI : 
 
   <img width="684" height="369" alt="image" src="https://github.com/user-attachments/assets/f0c56154-1f7d-4af1-aa6d-3a4f9259e11b" />
 
-  Registration : 
+  Attendance Marking : 
 
-     <img width="406" height="397" alt="image" src="https://github.com/user-attachments/assets/082b0ddb-31b5-4e00-8b1e-fa811bc8b6c3" />
+<img width="402" height="425" alt="image" src="https://github.com/user-attachments/assets/c7ad14bc-ff34-4d4f-ae17-23cf0b236f1e" />
 
-  Attendance MArking : 
-
-     <img width="402" height="425" alt="image" src="https://github.com/user-attachments/assets/739225ab-0002-4d6c-9583-646f833a4b75" />
 
  Attendance Report of Students : 
 
