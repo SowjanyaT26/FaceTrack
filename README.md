@@ -9,12 +9,45 @@ The proposed solution implements a facial - based attendance system that automat
 
 By combining face recognition with a web-based platform, the system ensures that attendance is recorded only for physically present students. This solution minimizes manual effort, improves accuracy, and provides a reliable method for managing classroom attendance.
 
-Technical Stack : 
-<img width="617" height="340" alt="image" src="https://github.com/user-attachments/assets/a4f84447-5511-4b70-95df-5838df7adc06" />
+# Technical Stack : 
+   HTML CSS JAVASCRIPT - FRONTEND
+   FLASK, PYTHON       - BACKEND
+   OPEN CV, DLIB       - FACE RECOGNITION
+   MYSQL               - DATABASE
+   VS CODE, GIT HUB    - TOOLS
 
-UML Diagrams : 
+# UML Diagrams : 
   1. User Activity
      <img width="780" height="431" alt="image" src="https://github.com/user-attachments/assets/c2ffe8c5-8933-4937-8e0e-3d112ddada32" />
-  2. Sequence diagram
-     <img width="575" height="398" alt="image" src="https://github.com/user-attachments/assets/6c61c37b-949e-4119-81d1-b8a43ef5387e" />
      
+  2. Sequence diagram
+     
+     <img width="575" height="398" alt="image" src="https://github.com/user-attachments/assets/6c61c37b-949e-4119-81d1-b8a43ef5387e" />
+
+# Designed Screens UI : 
+
+  <img width="684" height="369" alt="image" src="https://github.com/user-attachments/assets/f0c56154-1f7d-4af1-aa6d-3a4f9259e11b" />
+
+  Registration : 
+
+     <img width="406" height="397" alt="image" src="https://github.com/user-attachments/assets/082b0ddb-31b5-4e00-8b1e-fa811bc8b6c3" />
+
+  Attendance MArking : 
+
+     <img width="402" height="425" alt="image" src="https://github.com/user-attachments/assets/739225ab-0002-4d6c-9583-646f833a4b75" />
+
+ Attendance Report of Students : 
+
+     <img width="811" height="440" alt="image" src="https://github.com/user-attachments/assets/c203cfe4-02e5-45b0-9cb8-229d9d02404b" />
+
+1. Successfully implemented attendance system using face recognition
+2. Eliminates manual attendance and reduces human errors
+3. Automatically identifies students using live webcam input
+4. Stores attendance records accurately with time and session details
+
+Future Enhancements can include mobile support along with IP Address restrictions, Loacation based access and Liveness Detection
+
+
+
+
+
